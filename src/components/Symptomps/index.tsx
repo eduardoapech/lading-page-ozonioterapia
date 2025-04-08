@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Container, Virus } from "./styles";
+import { Container } from "./styles";
 import HeaderCenterSection from "../HeaderCenterSection";
 // import virus from "../../assets/img/coronavirus-lp-small.svg";
 import seguro from "../../assets/img/symptomps.svg";
